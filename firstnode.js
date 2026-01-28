@@ -23,4 +23,9 @@
 // }
 // module.exports.add= add;
 
-//loupe browser
+// loupe browser
+function add(){
+    console.log("tanya")
+}
+module.exports.add= add;
+
